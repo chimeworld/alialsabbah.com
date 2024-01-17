@@ -5,7 +5,7 @@ categories:
     - Learning Programming
 ---
 
-Today, I started the UC Berkeley <a target="_blank" href="https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9">CS 61</a> lecture series based on the legendary <a target="_blank" href="https://amzn.to/2w26fu1">*Structure and Interpretation of Computer Programs*</a> book. There is also an excellent HTML/EPUB3 version of the book available <a target="_blank" href="https://sarabander.github.io/sicp/">here</a>.
+Today, I started the UC Berkeley [CS 61](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9) lecture series based on the legendary [*Structure and Interpretation of Computer Programs*](https://amzn.to/2w26fu1) book. There is also an excellent HTML/EPUB3 version of the book available [here](https://sarabander.github.io/sicp/).
 
 <center><div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/4leZ1Ca4f0g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></center>
 I am hoping to strengthen my knowledge of programming fundamentals by completing this set of lectures. This book has been highly recommended online. It is also supposed to be challenging and I am looking forward to a challenge.
