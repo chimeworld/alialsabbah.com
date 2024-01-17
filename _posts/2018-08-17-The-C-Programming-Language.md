@@ -5,7 +5,7 @@ categories:
     - Learning Programming
 ---
 
-I've already started a <a target="_blank" href="https://www.coursera.org/learn/programming-fundamentals">course</a> on Coursera about programming in C and today I just got the famous <a target="_blank" href="https://amzn.to/2nWIfnv">*The C Programming Language*</a> by Brian W. Kernighan and Dennis M. Ritchie in the mail (same day Amazon delivery, of course).
+I've already started a [course](https://www.coursera.org/learn/programming-fundamentals) on Coursera about programming in C and today I just got the famous [*The C Programming Language*](https://amzn.to/2nWIfnv) by Brian W. Kernighan and Dennis M. Ritchie in the mail (same day Amazon delivery, of course).
 
 The second edition of this book was published in 1988 and the thought of following in the footsteps and doing the same kind of programming work that people were doing 30 or 40 years ago is a little surreal. Up until the Coursera course that I began earlier this month, I'd only programmed in Python and dabbled a little in web development languages. The age of this book shows, when following the "Hello, World" tutorial, the instructions for compiling and running the program on a UNIX system are given. For other systems, the reader is asked to consult a local expert, the 20th-century equivalent of Googling it.
 
